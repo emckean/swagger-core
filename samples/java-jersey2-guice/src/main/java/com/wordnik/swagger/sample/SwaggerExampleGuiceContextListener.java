@@ -72,7 +72,7 @@ public class SwaggerExampleGuiceContextListener extends GuiceServletContextListe
                         "at <a href=\"http://swagger.io\">http://swagger.io</a> or on irc.freenode.net, #swagger.  For this sample, " +
                         "you can use the api key \"special-key\" to test the authorization filters",
                 "http://helloreverb.com/terms/",                  /* TOS URL */
-                "apiteam@wordnik.com",                            /* Contact */
+                "apiteam@swagger.io",                            /* Contact */
                 "Apache 2.0",                                     /* license */
                 "http://www.apache.org/licenses/LICENSE-2.0.html" /* license URL */
         );

@@ -34,7 +34,7 @@ class Bootstrap extends HttpServlet {
     at <a href="http://swagger.io">http://swagger.io</a> or on irc.freenode.net, #swagger.  For this sample,
     you can use the api key "special-key" to test the authorization filters""", 
     termsOfServiceUrl = "http://helloreverb.com/terms/",
-    contact = "apiteam@wordnik.com", 
+    contact = "apiteam@swagger.io", 
     license = "Apache 2.0", 
     licenseUrl = "http://www.apache.org/licenses/LICENSE-2.0.html")
 
